@@ -55,7 +55,7 @@ const HeroLeft = () => {
             <GetStartedBtn />
             <h1 className="text-base">
               Already started?{" "}
-              <span className="text-[#F63B34]">
+              <span className="text-[#F63B34] cursor-pointer">
                 Finish your application now
               </span>
             </h1>
